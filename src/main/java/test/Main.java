@@ -8,4 +8,8 @@ public class Main {
     public static void methodCreatedInAnotherFolderInClonnedProject() {
         //body of this method
     }
+
+    public static void methdoCreatedAfterSecondCommit() {
+        //hm hm hm
+    }
 }

@@ -6,4 +6,13 @@ public class ClassForModifying {
     public void someMethod() {
         //some code here
     }
+
+    public void newMethodAfterFirstCommit() {
+        //body of this method
+    }
+
+    public void newMethodsAfterSecondCommit() {
+        //
+    }
 }
+
